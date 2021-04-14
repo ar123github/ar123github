@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ar123github
-- 👀 I’m interested in gentoo and i3gaps
+- 👀 I’m interested in and i3gaps
 - 🌱 I’m currently learning how to code in c++
 
 <!---
