@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ar123github
-- 👀 I’m interested in and i3gaps
-- 🌱 I’m currently learning how to code in c++
+- 👀 I’m interested in OSDev
+- 🌱 I’m currently learning how to code in C++ and C
 
 <!---
 ar123github/ar123github is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
